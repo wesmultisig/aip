@@ -52,16 +52,16 @@ The following strategy parameters are proposed (same as wbtc..where can I see th
 
 ## References
 
-ARC- https://governance.aave.com/t/arc-proposal-to-add-support-for-renbtc/568
-Website: https://mainnet.renproject.io/
-Wrapped BTC Data: https://dune.xyz/eliasimos/btc-on-ethereum_1
-renBTC Token contract: https://etherscan.io/token/0xeb4c2781e4eba804ce9a9803c67d0893436bb27d
-Makerdao renBTC Vault: https://oasis.app/vaults/open/RENBTC-A
-renBTC stats on Makerdao: https://makerburn.com/#/collateral/renbtc
-renJS docs: https://github.com/renproject/ren-js
-renWiki: https://github.com/renproject/ren/wiki
-Audits: https://github.com/renproject/ren/wiki/Audits
-renBTC Technical Assessment: https://forum.makerdao.com/t/renbtc-erc20-token-smart-contract-technical-assessment/5341
+- ARC: https://governance.aave.com/t/arc-proposal-to-add-support-for-renbtc/568
+- Website: https://mainnet.renproject.io/
+- Wrapped BTC Data: https://dune.xyz/eliasimos/btc-on-ethereum_1
+- renBTC Token contract: https://etherscan.io/token/0xeb4c2781e4eba804ce9a9803c67d0893436bb27d
+- Makerdao renBTC Vault: https://oasis.app/vaults/open/RENBTC-A
+- renBTC stats on Makerdao: https://makerburn.com/#/collateral/renbtc
+- renJS docs: https://github.com/renproject/ren-js
+- renWiki: https://github.com/renproject/ren/wiki
+- Audits: https://github.com/renproject/ren/wiki/Audits
+- renBTC Technical Assessment: https://forum.makerdao.com/t/renbtc-erc20-token-smart-contract-technical-assessment/5341
 
 ## Copyright
 
