@@ -1,15 +1,11 @@
 ---
-title: Add renBTC to Aave.
+title: Add renBTC to Aave
 status: WIP
 author: Wesmultisig
 shortDescription: Add renBTC support to Aave Markets
-discussions:  https://governance.aave.com/t/arc-proposal-to-add-support-for-renbtc/568
-created:(2022-03-28)
-updated (*optional):
+discussions: https://governance.aave.com/t/arc-proposal-to-add-support-for-renbtc/568
+created: 2022-03-28
 ---
-
-Note that the filename should contain the generated identifier by the author. When opening a pull request to submit your AIP, please use an abbreviated title in the filename, `identifier-AIP-draft_title_abbrev.md`. 
-
 
 ## Simple Summary
 
